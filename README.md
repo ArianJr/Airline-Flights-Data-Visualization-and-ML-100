@@ -6,7 +6,7 @@ This project explores U.S. airline flight data through interactive visualization
 
 ## 📂 Dataset Overview
 
-- **Source**: [Kaggle - Airline Flight Data](https://www.kaggle.com/datasets)
+- **Source**: [Kaggle - Airline Flight Data]([https://www.kaggle.com/datasets](https://www.kaggle.com/datasets/rohitgrewal/airlines-flights-data))
 - **Size**: ~600,000 flight records
 - **Features**: Includes airline, origin/destination, departure/arrival times, delay durations, cancellation reasons, and more.
 
@@ -31,13 +31,6 @@ This project explores U.S. airline flight data through interactive visualization
 4. **Insights & Recommendations**
    - Key factors influencing delays and cancellations
    - Suggestions for improving airline operations
-
----
-
-## 📈 Sample Visualizations
-
-![Flight Delays by Airline](images/delay_by_airline.png)
-![Monthly Cancellation Trends](images/cancellation_trends.png)
 
 ---
 
