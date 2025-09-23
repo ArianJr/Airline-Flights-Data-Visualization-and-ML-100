@@ -6,7 +6,7 @@ This project explores U.S. airline flight data through interactive visualization
 
 ## 📂 Dataset Overview
 
-- **Source**: [Kaggle - Airline Flight Data]([(https://www.kaggle.com/datasets/rohitgrewal/airlines-flights-data])
+- **Source**: Kaggle - Airline Flight Data: (https://www.kaggle.com/datasets/rohitgrewal/airlines-flights-data)
 - **Size**: ~600,000 flight records
 - **Features**: Includes airline, origin/destination, departure/arrival times, delay durations, cancellation reasons, and more.
 
