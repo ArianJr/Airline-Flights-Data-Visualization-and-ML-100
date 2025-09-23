@@ -62,3 +62,18 @@ This project explores U.S. airline flight data through interactive visualization
 1. Clone the repository:
    ```bash
    git clone https://github.com/ArianJr/Airline-Flights-Data-Visualization-and-ML-100.git
+   ```
+   
+2. Open the notebook:
+   ```bash
+   jupyter notebook Airline Flights Data Project.ipynb
+   ```
+3. Run cells sequentially to reproduce results.
+
+   
+## 👤 Author: Arian Jafar
+Computer Engineering Student | Data Science and AI Enthusiast
+📧 [arianjafar59@gmail.com]
+
+Thanks for checking out my project!
+If you found it helpful or interesting, consider giving it a ⭐ on GitHub.
