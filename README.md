@@ -68,5 +68,11 @@ This project explores U.S. airline flight data through interactive visualization
 Computer Engineering Student | Data Science and AI Enthusiast
 📧 [arianjafar59@gmail.com]
 
+## 📄 License
+
+This project is licensed under the [MIT License](LICENSE). Feel free to use, modify, and share with attribution.
+
+---
+
 #### Thanks for checking out my project!
 If you found it helpful or interesting, consider giving it a ⭐ on GitHub.
